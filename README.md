@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @x3noch3m
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript/React
+- 💞️ I’m looking to collaborate on any Front-End projects
+- 📫 To reach me on twitter, please DM me (https://twitter.com/x3noch3m)
